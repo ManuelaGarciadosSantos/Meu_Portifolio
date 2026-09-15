@@ -1,0 +1,12 @@
+body {
+    background-color: #caf0f8;
+}
+h1, h2, h3, h4 {
+    color: #0077b6;
+}
+p, li {
+    font-size: 20px;
+}
+a {
+    font-size: 18px;
+}
